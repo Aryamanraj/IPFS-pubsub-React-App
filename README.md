@@ -2,7 +2,7 @@
 
 This repository provides a messaging platform between two IPFS nodes using the Publish-Subscribe pattern, also known as 'pubsub'. IPFS (InterPlanetary File System) is a protocol and network designed to create a distributed and decentralized file system. The pubsub feature in IPFS enables greater network scalability and flexibility by allowing publishers to send messages classified by topic or content, and subscribers to receive only the messages they are interested in.
 
-## Prerequisites
+### Prerequisites
 
 Make sure you have the following prerequisites installed on your development machine:
 
